@@ -33,7 +33,7 @@
 .failures{
     display: flex;
     width: 1000px;
-    margin-top: 30px;
+    margin-top: 10px;
     padding: 260px 100px;
     align-items: center;
     gap: 100px;
@@ -48,6 +48,29 @@
     font-size: 16px;
     color: #444343;
     margin-top: 10px;
+}
+/* positive mindset */
+.positive-mindset{
+    background-image: url('gradient3.png');
+    width: 900px;
+    height: 200px;
+    margin: 10px 100px;
+    background-repeat: no-repeat;
+    margin-left: 330px;
+}
+.positive-title{
+    padding:30px 50px;
+}
+.positive-description{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+.button-contact{
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 15px;
 }
 /* my plans */
 .section-heading{
