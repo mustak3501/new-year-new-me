@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans';
+}
+.banner{
+    background-image: url('banner2.png');
+    height: 700px;
+    background-repeat: no-repeat;
+}
+.banner-name{
+    text-align: right;
+    padding: 100px;
+    font-family: 'Work Sans';
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.button-primary{
+    background: #F15B22;
+    border-radius: 1px;
+    border-color: azure;
+    text-decoration: azure;
+    margin-top: 10px;
+}
+/* failures */
+
+.failures{
+    display: flex;
+    width: 1000px;
+    margin-top: 30px;
+    padding: 260px 100px;
+    align-items: center;
+    gap: 100px;
+    
+}
+.text{
+    font-weight: 700;
+    font-size: 40px;
+}
+.font{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 10px;
+}
+/* my plans */
+.section-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.planes{
+    display: flex;
+    gap: 60px;
+    margin-left: 230px;
+    
+}
+.web-development{
+    padding: 30px;
+}
+.plan-title{
+    font-weight: 700;
+   font-size: 30px;
+   
+}
+.plan-description{
+    font-size: 25px;
+    color: #737272;
+    font-weight: 500;
+    
+}
+.footer{
+    background: #000;
+    margin-top: 70px;
+    height: 400px;;
+}
+.future{
+    display: flex;
+    
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    padding: 10px
+}
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    
+}
+.contact{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding: 10px;
+}
+.subscribe{
+    color: #FFFFFF;
+    padding: 70px 30px ;
+    margin: top 44px; 
+    align-items: left; 
+}
+.gap{
+    margin-top: 10px;
+}
+
