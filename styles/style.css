@@ -11,6 +11,7 @@
     text-align: right;
     padding: 100px;
     font-family: 'Work Sans';
+    
 }
 .banner-title{
     font-weight: 700;
@@ -83,7 +84,7 @@
 .planes{
     display: flex;
     gap: 60px;
-    margin-left: 230px;
+    margin-left: 180px;
     
 }
 .web-development{
@@ -103,24 +104,31 @@
 .footer{
     background: #000;
     margin-top: 70px;
-    height: 400px;;
+    height: 400px;
+    
 }
 .future{
     display: flex;
     
 }
+.future-tex{
+    padding: 100px;
+    margin-left: 50px;
+}
 .future-title{
     font-weight: 700;
     font-size: 45px;
     color: #F8F8F8;
-    padding: 10px
+    padding: 10px;
+    
 }
 .future-description{
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #FFFFFF;
-    padding: 5px 10px;
+    padding: 5px 5px;
+    word-wrap: break-word;
     
 }
 .contact{
@@ -128,13 +136,13 @@
     font-size: 16px;
     line-height: 26px;
     color: #FFFFFF;
-    padding: 10px;
+    padding: 8px;
 }
 .subscribe{
     color: #FFFFFF;
     padding: 70px 30px ;
     margin: top 44px; 
-    align-items: left; 
+    margin-left: 50px; 
 }
 .gap{
     margin-top: 10px;
